@@ -1,0 +1,15 @@
+{
+  "name": "cssimport-bom",
+  "version": "1.0.0",
+  "description": "A small example where the BOM in the merged css file mess up styling.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "author": "Alexander Miller",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssimport": "^5.1.1"
+  }
+}
