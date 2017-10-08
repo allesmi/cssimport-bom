@@ -1,6 +1,6 @@
 # cssimport-bom
 
-A small example where the BOM in the merged css file mess up styling.
+A small example where the BOM in the merged css file mess up styling for gulp-cssimport prior to version 6.0.0. This issue has since been fixed.
 
 ## Build instruction
 
